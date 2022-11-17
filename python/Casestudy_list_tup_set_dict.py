@@ -69,6 +69,10 @@ dict={friend_names[i]:quality[i] for i in range(len(friend_names))}
 print(dict)
 
 
+dict={friend_names:["jyo","rani","bindu","mani","naidu","naik"],quality:["smart","intelligent","friendly","hardworker","funny","jovial"]}
+print(dict)
+
+
 #6) Create a dict with family members names and relations
 family_member=["param","karthi","padma", "bhavani","srinu","lakshmi","venkatrao"]
 relation=["husband","daughter","mother","sister","father","mother_inla","father_inla"]
