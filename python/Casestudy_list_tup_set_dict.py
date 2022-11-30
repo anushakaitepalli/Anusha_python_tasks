@@ -24,7 +24,7 @@ print(year_tup)
 
 
 
-# year_tuple from 2022 t0 19470
+#4) year_tuple from 2022 t0 19470
 tup=[]
 for i in range (2022,19471):
     tup.append(i)
